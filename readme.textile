@@ -1,5 +1,5 @@
 h1. CMSI
 
-*C*rystal *M*ail *S*erver *I*ntegration is a plugin for Crystal Mail that allows users to manage every part of the mail server from the comfort of the Crystal Mail Admin Panel. CMSI also supports User Registration, Forgot Password Compatibility, Password Changing Ability (User or Admin), Vacation Response Compatibility, and Automatic Message Forwarding Compatibility! All features can be enabled or disabled from the configuration file or the Crystal Mail admin panel!
+(*C*)rystal (*M*)ail (*S*)erver (*I*)ntegration is a plugin for Crystal Mail that allows users to manage every part of the mail server from the comfort of the Crystal Mail Admin Panel. CMSI also supports User Registration, Forgot Password Compatibility, Password Changing Ability (User or Admin), Vacation Response Compatibility, and Automatic Message Forwarding Compatibility! All features can be enabled or disabled from the configuration file or the Crystal Mail admin panel!
 
-Oh yeah BTW this plugin was "Made By HD":http://madebyhd.co.cc
+This plugin was "Made By HD":http://madebyhd.us
